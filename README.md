@@ -15,8 +15,8 @@ This repository demonstrates how to use **Docling** and **LlamaIndex** to build 
 ## Repository Files
 
 - `README.md`: This documentation file.
-- `run_first_prepare_data.ipynb`: A Jupyter Notebook containing the code for implementing the RAG system.
-- `run_second_qa.ipynb`: A Jupyter Notebook containing the code for implementing the RAG system.
+- `run_first_prepare_data.ipynb`: A Jupyter Notebook dedicated to the preparation of data for the Retrieval-Augmented Generation (RAG) system.
+- `run_second_qa.ipynb`: A Jupyter Notebook designed to implement the question-answering (QA) capabilities of the RAG system.
 
 ---
 
